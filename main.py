@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-# Rachel Villamor
-# ID: 67589527
-# Professor Kurdahi
-# Spring 2022 - EECS 113 - Final Project
 
 import RPi.GPIO as GPIO
 import drivers
